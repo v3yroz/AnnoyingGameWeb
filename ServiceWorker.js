@@ -1,9 +1,9 @@
-const cacheName = "Veyroz-AnnoyingGame-1.0";
+const cacheName = "Veyroz-AnnoyingGame-1.2";
 const contentToCache = [
-    "Build/bild.loader.js",
-    "Build/bild.framework.js",
-    "Build/bild.data",
-    "Build/bild.wasm",
+    "Build/build.loader.js",
+    "Build/build.framework.js",
+    "Build/build.data",
+    "Build/build.wasm",
     "TemplateData/style.css"
 
 ];
